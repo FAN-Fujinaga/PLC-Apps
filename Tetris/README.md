@@ -2,10 +2,10 @@
 Programming for playing the Tetris on TPL by using PLC.
 
 # Controllers
-PLC:Q03UDVCPU (Mitsubishi)  
-TPL:WinGP (Schneider Electric)  
+#### PLC : Q03UDVCPU (Mitsubishi)  
+#### TPL : WinGP (Schneider Electric)  
 
-# Assets from
+# Use assets from
 #### Sound
 [効果音ラボ](https://soundeffect-lab.info/)  
 
