@@ -1,5 +1,5 @@
-# Descripton
-Programming for playing the Tetris on TPL by using PLC.
+# Description
+Programs for playing the Tetris on TPL by using PLC.
 <br />
 <br />
 <br />
