@@ -1,6 +1,8 @@
 # PLC-Apps
-PLC-Applications, not for FA or PA use
-<br/>
+PLC-Applications not for FA or PA use
+<br />
+<br />
+<br />
 
 ### Description
-This repository will be uploaded several applications of PLC & TPL programming.
+This repository is planned to upload several applications of PLC & TPL programming.
