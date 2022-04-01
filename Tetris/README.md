@@ -6,9 +6,16 @@ Programming for playing the Tetris on TPL by using PLC.
 
 # Controllers
 - `PLC : Q03UDVCPU (Mitsubishi)`  
-- `WinGP (Schneider Electric)`  
+- `TPL : WinGP (Schneider Electric)`  
 <br />
 <br />
+
+# IDE
+- `PLC : Gx Works2 Version 1.600A`  
+- `TPL : GP-ProEX Version V4.09.300`  
+<br />
+<br />
+
 
 # Use assets from
 #### Sound
