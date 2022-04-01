@@ -1,2 +1,5 @@
 # PLC-Apps
-PLC-Apprications, not for FA or PA use
+PLC-Applications, not for FA or PA use
+
+
+It will be uploaded several applications of PLC & TPL programming.
