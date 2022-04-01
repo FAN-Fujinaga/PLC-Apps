@@ -1,5 +1,5 @@
 # Description
-Programs for playing the Tetris on TPL by using PLC.
+Programs for playing Tetris game on TPL by using PLC.
 <br />
 <br />
 <br />
