@@ -6,13 +6,15 @@ Programs for playing Tetris game on TPL by using PLC.
 
 # Controllers
 - `PLC : Q03UDVCPU (Mitsubishi)`  
-- `TPL : WinGP (Schneider Electric)`  
+- `TPL(GP) : WinGP (Schneider Electric)`  
+- `TPL(GOT) : GT2715-XTBA (Mitsubishi)`  
 <br />
 <br />
 
 # IDE
 - `PLC : Gx Works2 Version 1.600A`  
-- `TPL : GP-ProEX Version V4.09.300`  
+- `TPL(GP) : GP-ProEX Version V4.09.300`  
+- `TPL(GOT) : GT Designer3 Version 1.271H`  
 <br />
 <br />
 
